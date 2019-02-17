@@ -580,10 +580,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 970bfc6e-20d9-41fc-9486-1f81e87640af
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: UNIST_InterdisciplinaryProject
+  organizationId: ken-kim--2
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
